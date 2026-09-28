@@ -1,0 +1,16 @@
+{
+  "name": "선온 브로우 에디터 로그",
+  "type": "blog",
+  "description": "얼굴의 균형과 눈썹 디자인을 보는 조용한 기록",
+  "tagline": "얼굴의 균형과 눈썹 디자인을 보는 조용한 기록",
+  "colors": [
+    "#03c75a",
+    "#f1f8f3",
+    "#03c75a"
+  ],
+  "default_art": "consultation",
+  "english": "BROW EDITORIAL",
+  "mark": "●",
+  "editor": "뷰티 에디터",
+  "shop": "선온 브로우"
+}
